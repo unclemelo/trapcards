@@ -9,8 +9,6 @@ To copy this repository to your local machine, use the following command:
 git clone https://github.com/unclemelo/trapcards.git
 ```
 
-Replace `YOUR-USERNAME` with the actual GitHub username that owns this repository.
-
 ## 🔄 Staying Updated
 To ensure you always have the latest memes, you can update your local clone by navigating to the repository folder and pulling the latest changes:
 
